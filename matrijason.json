@@ -1,0 +1,28 @@
+[
+    {
+    "nombre": "Daniel",
+    "apellidos":"Maluendas",
+    "creditos": 25
+
+    },
+
+    {
+    "nombre": "Jose",
+    "apellidos": "Corzo",
+    "creditos": 15
+    },
+
+    {
+    "nombre": "Juan",
+    "apellidos": "Perez",
+    "creditos": 90
+    },
+    
+    {
+    "nombre": "Maria",
+    "apellidos": "Garcia",
+    "creditos": 40
+
+    }
+]
+  
